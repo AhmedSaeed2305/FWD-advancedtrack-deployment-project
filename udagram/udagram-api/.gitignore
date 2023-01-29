@@ -11,7 +11,7 @@ log.txt
 *.sublime-workspace
 .vscode/
 npm-debug.log*
-
+www/
 .idea/
 .ionic/
 .sourcemaps/
@@ -20,7 +20,6 @@ npm-debug.log*
 .versions/
 coverage/
 node_modules/
-www/
 tmp/
 temp/
 platforms/

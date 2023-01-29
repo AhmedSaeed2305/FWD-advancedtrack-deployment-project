@@ -1,5 +1,15 @@
 # Hosting a Full-Stack Application
 
+# this is a Udagram app which works like instagram that it stores photos of the user
+
+## link for the frontapp: http://project-063446971241.s3-website-us-east-1.amazonaws.com/home
+
+## link for the API: http://project1-env.eba-cjrmrczb.us-east-1.elasticbeanstalk.com/
+
+##
+
+////////////////////////////////////////////////////////////////////////////////////////
+
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
 ---
@@ -15,8 +25,6 @@ The project will also include writing documentation and runbooks covering the op
 # Udagram
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
-
-
 
 ### Dependencies
 
@@ -70,3 +78,5 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+
+////////////////////////////////////////////////////////////////
