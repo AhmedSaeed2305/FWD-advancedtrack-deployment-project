@@ -7,7 +7,7 @@ environment-defaults:
     repository: null
 global:
   application_name: project-1
-  default_ec2_keyname: null
+  default_ec2_keyname: AhmedSaeed
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
   default_region: us-east-1
   include_git_submodules: true
